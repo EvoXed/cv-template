@@ -1,0 +1,54 @@
+.header {
+    padding: 36px 0;
+    margin-bottom: 23px;
+}
+
+.download-cv-link {
+    font-size: 18px;
+}
+
+.username {
+    font-size: 30px;
+}
+
+.about {
+    margin-bottom: 27px;
+}
+
+.about__title {
+    font-size: 30px;
+    padding: 0 0 11px;
+    margin: 0 0 15px 0;
+}
+
+.about__left {
+    width: 228px;
+    margin-right: 20px;
+}
+
+.skill__tech-list {
+    padding: 0;
+}
+
+.skills__item {
+    margin-bottom: 24px;
+}
+
+.skills__title {
+    padding: 3px 0;
+    margin-bottom: 10px;
+}
+
+.desc__item {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.desk__title {
+    font-size: 36px;
+    margin-bottom: 23px;
+}
+
+.footer {
+    padding: 41px 0;
+}

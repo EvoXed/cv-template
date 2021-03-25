@@ -1,0 +1,116 @@
+body {
+    font-size: 12px;
+    line-height: 1.25;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 20px;
+}
+
+.header {
+    padding: 18px 0;
+    margin-bottom: 15px;
+}
+
+.header__container {
+    flex-flow: column;
+    align-items: center;
+}
+
+.download-cv-link {
+    display: none;
+}
+
+.username {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+.contacts {
+    align-items: center;
+}
+
+.contacts__phone {
+    font-size: 14px;
+}
+
+.contacts__email {
+    font-size: 14px;
+    padding: 1px 0;
+}
+
+.about__left {
+    width: 107px;
+    margin-right: 18px;
+}
+
+.skills__item {
+    margin-bottom: 15px;
+}
+
+.about__title {
+    font-size: 16px;
+    padding: 0;
+    margin: 3px 0;
+    line-height: 1.25;
+}
+
+.skills__title {
+    font-size: 14px;
+    padding: 0;
+    line-height: 30px;
+    margin-bottom: 0px;
+}
+
+.skills__tech-item {
+    font-size: 12px;
+    margin-bottom: 0px;
+    line-height: 20px;
+}
+
+.skills__tech-item::before {
+    margin: 0px 5px 2px 1px;
+}
+
+.about {
+    margin-bottom: 11px;
+}
+
+.desk {
+    padding: 0 2px;
+    margin-bottom: 0 !important;
+}
+
+.desk__title {
+    font-size: 21px;
+    margin-bottom: 8px;
+}
+
+.footer {
+    padding: 22px 0 36px;
+}
+
+.footer__container {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .download-cv-link {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.download-cv-link__text {
+    margin-left: 10px;
+    letter-spacing: 0;
+}
+
+.socials {
+    display: flex;
+    margin-bottom: 16px;
+}
